@@ -1,0 +1,1 @@
+OBSOLETE, i updated my version of spark to include the server browser in the "Choose Server" tab, so this app is no longer needed, download and use spark from my github instead at https://github.com/heisthecat31/Spark
